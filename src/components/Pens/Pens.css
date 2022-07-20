@@ -1,0 +1,88 @@
+.elements-container{
+    flex-direction: row; 
+    justify-content: space-evenly;
+}
+
+.container-fluid {
+    padding: 100px;
+    font-family:Verdana !important;
+    color: aliceblue;
+}
+
+
+
+.d-flex{
+padding-right: 15px;
+padding-top: 10px;
+}
+
+.container-fluid1{
+background-color: whitesmoke;
+
+}
+
+.text{
+padding-top: 30px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.row{
+padding-left: 10px;
+}
+
+.navbarDropdown {
+padding-left : 100px;
+}
+
+.filtered-search-box{
+padding-left: 20px;
+margin-right: 20px;
+margin-left: 0px;
+float: left;
+/*display: inline-block;*/
+}
+
+.containertitle{
+padding-top: 10px;
+border-style: solid;
+border-width: 1px;
+}
+
+.searchtext{
+padding-left: 10px;
+padding-bottom: 5px;
+}
+
+.container-product{
+margin-top:0px ;
+margin-left: 10px;
+margin-right: 10px;
+
+}
+
+.grid{
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding-left: 90px;
+
+}
+
+.box{
+   
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+    overflow: hidden;
+    -webkit-box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+    box-shadow: 0px 12px 18px -6px rgba(0,0,0,0.3);
+    margin: 20px;
+    
+}
+
+.grid > div{
+    flex-basis: calc(20% - 1px);
+    
+}

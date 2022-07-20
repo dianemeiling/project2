@@ -1,0 +1,27 @@
+
+
+    .links{
+        display: flex;
+        flex-direction: row;
+        column-gap: 100px;
+        position: relative;
+       
+        padding-bottom: 13px;
+        
+    }
+
+.navbar {
+    position:sticky;
+    top: 5%;
+    background-color:rgb(255, 255, 201);
+    font-size: 12px;
+   
+    margin-left: 30% ;
+   
+    padding: 1px 5px;
+    width: 55%;
+    
+    box-shadow: 99 10px 99 900px rgba(0,0,0,.2);
+}
+
+   

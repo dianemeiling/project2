@@ -1,0 +1,27 @@
+[
+    {
+    "id":1,
+    "name": "Pencil1",
+    "price": 1.99,
+    "imgUrl": "/assets/berry.jpeg"
+},
+{
+    "id":1,
+    "name": "Pencil2",
+    "price": 1.99,
+    "imgUrl": "/assets/berry.jpeg"
+},
+{
+    "id":1,
+    "name": "Pencil3",
+    "price": 1.99,
+    "imgUrl": "/assets/berry.jpeg"
+},
+{
+    "id":1,
+    "name": "Pencil4",
+    "price": 1.99,
+    "imgUrl": "/assets/berry.jpeg"
+}
+]
+

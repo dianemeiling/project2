@@ -1,0 +1,44 @@
+.container-fluid {
+    padding: 100px;
+    font-family:Verdana !important;
+    color: aliceblue;
+}
+
+.navbar-nav > li{
+display: inline;
+font-size: 20px;
+padding-top: 0px;
+padding-left:70px;
+padding-right:0px;
+font-family:Verdana !important;
+
+}
+
+.navbar-cart{
+padding-left: 90px;
+}
+
+.navbar-brand{
+padding-left: 30px;
+}
+
+.d-flex{
+padding-right: 15px;
+padding-top: 10px;
+}
+
+.container-fluid1{
+background-color: whitesmoke;
+
+}
+
+.text{
+padding-top: 30px;
+text-align: center;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.row{
+padding-left: 10px;
+}

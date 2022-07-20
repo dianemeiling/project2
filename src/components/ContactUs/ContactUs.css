@@ -1,0 +1,28 @@
+.nameContainer{
+    text-align: left;
+    font-size: 20px;
+}
+
+.message{
+    font-size: 20px;
+    text-align: left;
+}
+
+.phoneContainer{
+    text-align: left;
+    font-size: 20px;
+}
+
+.emailContainer{
+    text-align: left;
+    font-size: 20px;
+}
+
+.PhoneNumberContainer{
+    text-align: left;
+    font-size: 20px;
+}
+
+.title{
+    font-size: 50px;
+}

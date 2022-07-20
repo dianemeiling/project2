@@ -1,0 +1,31 @@
+.firstNameContainer{
+    text-align: left;
+    font-size: 25px;
+}
+
+.nameContainer{
+    text-align: left;
+    font-size: 25px;
+}
+
+.AddressContainer{
+    text-align: left;
+    font-size: 25px;
+}
+
+.ApartmentNumContainer{
+    text-align: left;
+    font-size: 25px;
+}
+
+.PhoneNumberContainer{
+    text-align: left;
+    font-size: 25px;
+}
+
+.title{
+    font-size: 50px;
+}
+img{
+    size:19px;
+}
