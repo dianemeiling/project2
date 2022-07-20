@@ -1,0 +1,12 @@
+{
+    "order":{
+        "1": "Your Order has Been Confirmed!"
+    },
+    "details":{
+        "1": "A text has been sent to your phone number with your receipt! You will also be notified when your order has been shipped."
+    },
+
+    "home":{
+        "1": "Return to Home Page"
+        }
+    }

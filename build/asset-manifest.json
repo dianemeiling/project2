@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70b2cd94.css",
+    "main.js": "/static/js/main.1266bf51.js",
+    "static/js/787.9da4e606.chunk.js": "/static/js/787.9da4e606.chunk.js",
+    "static/media/Mug_Mr_And_Mrs_Koi.jpg": "/static/media/Mug_Mr_And_Mrs_Koi.87b12e3e2156f1abb120.jpg",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.70b2cd94.css.map": "/static/css/main.70b2cd94.css.map",
+    "main.1266bf51.js.map": "/static/js/main.1266bf51.js.map",
+    "787.9da4e606.chunk.js.map": "/static/js/787.9da4e606.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70b2cd94.css",
+    "static/js/main.1266bf51.js"
+  ]
+}
